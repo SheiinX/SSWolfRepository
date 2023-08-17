@@ -14,3 +14,10 @@ https://github.com/SheiinX/SSWolfRepository/assets/82066007/5bda163e-a0ba-4bb5-a
 
 
 Ejercicio 1 Tornado Sebastián Franco 450587
+
+
+Ejercisio1 Tornado samuel Herrera
+
+
+https://github.com/SheiinX/SSWolfRepository/assets/139893511/40eda738-7c57-4fda-b247-59962d35d25c
+
