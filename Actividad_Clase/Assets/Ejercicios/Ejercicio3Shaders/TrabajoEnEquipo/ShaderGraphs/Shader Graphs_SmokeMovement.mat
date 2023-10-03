@@ -42,8 +42,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _Smoke:
         m_Texture: {fileID: 2800000, guid: 2d17616e5f78d19438ca0505ca568006, type: 3}
-        m_Scale: {x: 1.57, y: 0.83}
-        m_Offset: {x: 1, y: 1}
+        m_Scale: {x: 1.71, y: 1.22}
+        m_Offset: {x: 1.2, y: 1}
     - _SmokeNormal:
         m_Texture: {fileID: 2800000, guid: faaf39b50437c5348aa67a708ae76fa9, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -67,11 +67,11 @@ Material:
     m_Ints: []
     m_Floats:
     - _AnotherDistortionSpeed: 0
-    - _DistortionIntesity: 0.84
+    - _DistortionIntesity: 0.75
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _DistortionSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _DistortionSpeed: {r: 0.54, g: 0.68, b: 0, a: 0}
     - _Offset: {r: 1, g: 1, b: 0, a: 0}
     - _Tiling: {r: 1, g: 1, b: 0, a: 0}
     - _color: {r: 1, g: 1, b: 1, a: 0}
