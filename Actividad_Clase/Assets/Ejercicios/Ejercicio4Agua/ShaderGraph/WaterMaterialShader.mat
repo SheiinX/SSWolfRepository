@@ -27,6 +27,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 87cdd91c1efd3dd44ad5af627c05e580, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleReflectedCubemap_bb6e9c086ace467f8318d10878ff4d55_Cube_1_Cubemap:
+        m_Texture: {fileID: 8900000, guid: 42817ba2f523c08468d559b466fa184e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_713d4e185e4d42d69ce73976522f1f8c_Texture_1_Texture2D:
         m_Texture: {fileID: 10309, guid: 0000000000000000f000000000000000, type: 0}
         m_Scale: {x: 1, y: 1}
@@ -60,6 +64,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 0}
     - _ColorEspuma: {r: 1, g: 1, b: 1, a: 0.50980395}
     - _ColorRefraction: {r: 1, g: 1, b: 1, a: 0}
+    - _Distortion_Speed: {r: 0.25, g: 0, b: 0, a: 0}
     - _ProfundoColor: {r: 0, g: 0.056124102, b: 0.254717, a: 0}
     - _SurfaceColor: {r: 0.13143465, g: 0.34820756, b: 0.49056602, a: 0}
   m_BuildTextureStacks: []
