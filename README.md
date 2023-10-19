@@ -81,3 +81,13 @@ textura en espejo
 Video
 
 https://upbeduco-my.sharepoint.com/:v:/g/personal/sebastian_francoc_upb_edu_co/EV383e1yPyVKvWIAqIQSdGUB-v1J7sus6kYwe_CyhINUkQ?e=DKmLNw
+
+
+
+# ejercicio 4
+
+Adjunto de documento word:
+https://upbeduco-my.sharepoint.com/:w:/g/personal/sebastian_francoc_upb_edu_co/ER97HZhUVZBIv1iA85KQDeoBUXWKMHCJYEcnwAptS6zFng?e=7IBaSg
+
+Adjunto de video:
+https://upbeduco-my.sharepoint.com/:v:/g/personal/sebastian_francoc_upb_edu_co/EbHF84Cf1DdIvvTvEcEOf74BFPpmosjxyyWQj4POfk8k-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Fm40A0
