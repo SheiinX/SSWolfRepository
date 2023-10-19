@@ -43,7 +43,7 @@ void GetAdditionalLight_float(int LightIndex, float3 PositionWS, out float3 Ligh
     ShadowAttenuation = 1;
     DistanceAttenuation = 1;
 
-#if UNIVERSAL_LIGHTING_INCLUDED
+#ifdef UNIVERSAL_LIGHTING_INCLUDED
     Light light = GetAdditionalLight(LightIndex, PositionWS);
     LightDirectionWS = light.direction;
     LightColor = light.color;
