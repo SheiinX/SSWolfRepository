@@ -20,6 +20,8 @@ void GetMainLight_float(float3 PositionWS, out float3 LightDirectionWS, out floa
 #endif
 }
 
+
+
 void GetMainLight_half(float3 PositionWS, out half3 LightDirectionWS, out half3 LightColor)
 {
     LightDirectionWS = float3(1,1,-1);
