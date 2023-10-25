@@ -107,6 +107,17 @@ Samuel Hernandez
 \Aberración cromatica:
 
 
+
+https://github.com/SheiinX/SSWolfRepository/assets/94467746/6a983609-bd48-475a-809b-a94cb6ada68d
+
+
+
+
+
+
+
+
 Profundidad de campo:
+https://github.com/SheiinX/SSWolfRepository/assets/94467746/48864b84-7e39-4f31-aeaa-021f2b4cef7a
 
 
