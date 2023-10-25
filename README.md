@@ -95,6 +95,7 @@ https://upbeduco-my.sharepoint.com/:v:/g/personal/sebastian_francoc_upb_edu_co/E
 
 # ejercicio 5
 Sebastián Franco
+
 Aberración cromatica:
 ![2023-10-24-22-05-32](https://github.com/SheiinX/SSWolfRepository/assets/82066007/ddb0bfd1-bbd8-4276-8cf8-7a6367f5ee2d)
 
@@ -102,6 +103,7 @@ Profundidad de campo:
 ![2023-10-24-22-04-29](https://github.com/SheiinX/SSWolfRepository/assets/82066007/3930fc7f-b0bb-4dea-b3ff-683d9e9a7c41)
 
 Samuel Hernandez
+
 Aberración cromatica:
 
 
